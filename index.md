@@ -1,0 +1,17 @@
+---
+title: 'About'
+layout: single
+author_profile: true
+---
+
+Hi, I'm Luca. Coming from a background in engineering, marketing, and computer science, I have found my true passion in steering technological advancements towards economically sustainable and socially equitable directions. My core research focuses on fairness and transparency in AI which both offer tremendeous potentials (but also risks) for social good. Currently, I am looking into the value of explanations for AI decision-subjects fostering a stakeholder-centerd approach. Parallely, we are developing exciting open-education materials at our <a href="https://www.fim-rc.de/" style="text-decoration:none">ABBA-project</a>
+
+I am fascinated by engaging with colleagues from all sorts of backgrounds. This is why I want to build my fairness research around insights from computer scientists, ethicists, social scientists, legal experts, but also from all people affected by AI. The university of Bayreuth offers perfect grounds for such interdisciplinary endeavors. Here I am also embedded in the <a href="https://www.fim-rc.de/" style="text-decoration:none">FIM research institute for information management</a> full of fun and inspiring colleagues!
+
+## News
+
+**January '24.** &nbsp; I started my journey as a PhD student at University of Bayreuth, supervised by <a href="https://nkukit.github.io/" style="text-decoration:none">Prof. Niklas Kuehl</a>.
+
+**Oct '23.** &nbsp; Our joint <a href="https://arxiv.org/pdf/2310.13007.pdf" style="text-decoration:none">work</a> *"A critical survey on fairness benefits of XAI"* with <a href="https://jakobschoeffer.github.io/" style="text-decoration:none">Jakob</a>, <a href="https://mariadearteaga.com/" style="text-decoration:none">Maria</a>, and <a href="https://nkukit.github.io/" style="text-decoration:none">Niklas</a> was accepted to the <a href="https://xai-in-action.github.io/" style="text-decoration:none">XAIA Workshop @ NeurIPS '23</a> and will be presented in New Orleans in December.
+
+**May '23.** &nbsp; I started my journey as a PhD student at University of Bayreuth, supervised by <a href="https://nkukit.github.io/" style="text-decoration:none">Prof. Niklas Kuehl</a>.
