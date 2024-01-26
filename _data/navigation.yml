@@ -1,0 +1,18 @@
+# main links
+main:
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    - title: "About"
+      url: /
+    - title: "Research"
+      url: /research/
+    - title: "Teaching"
+      url: /teaching/
+  #  - title: "CV"
+  #    url: https://lucad98.github.io/files/luca_deck_cv.pdf
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
