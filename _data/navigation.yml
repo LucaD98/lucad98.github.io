@@ -8,8 +8,8 @@ main:
       url: /research/
     - title: "Teaching"
       url: /teaching/
-   - title: "CV"
-     url: https://lucad98.github.io/files/luca_deck_CV.pdf
+  #  - title: "CV"
+  #    url: https://lucad98.github.io/files/luca_deck_CV.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
