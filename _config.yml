@@ -100,9 +100,9 @@ author:
   location         : "Bayreuth, Germany"
   email            :  "luca.deck@uni-bayreuth.de"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:luca.deck@uni-bayreuth.de"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope"
+    #   url: "mailto:luca.deck@uni-bayreuth.de"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://lucad98.github.io/"
