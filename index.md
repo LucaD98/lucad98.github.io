@@ -12,7 +12,7 @@ I am fascinated by engaging with colleagues from all sorts of backgrounds. This 
 
 **July '24.** &nbsp; I had never even imagined to be on a stage in front of 700 people, least to say in front of 700 kids. But it really happened thanks to the amazing <a href="https://www.uni-bayreuth.de/en/kinderuni" style="text-decoration:bold">childrens' university in Bayreuth</a>: <a href="https://www.linkedin.com/posts/luca-deck_bei-dem-herausragenden-kinderuni-vortrag-activity-7217171300518166530-f-FX" style="text-decoration:bold">LinkedIn-Post</a>
 
-**June '24.** &nbsp; Our first paper was accepted to FAccT! Our students engaged in great discussions: <a href="https://www.linkedin.com/posts/luca-deck_a-critical-survey-on-fairness-benefits-of-activity-7202936134677479424-qNqG" style="text-decoration:bold">LinkedIn-Post</a>
+**June '24.** &nbsp; Our first paper was accepted to FAccT! <a href="https://www.linkedin.com/posts/luca-deck_a-critical-survey-on-fairness-benefits-of-activity-7202936134677479424-qNqG" style="text-decoration:bold">LinkedIn-Post</a>
 
 **April '24.** &nbsp; I was invited to give some talks at the University of Basel and University of Vienna. In Basel I was giving a <a href="https://www.linkedin.com/posts/luca-deck_explainableai-algorithmicfairness-humancomputerinteraction-activity-7181984545234112514-LGhk" style="text-decoration:none">lecture on Explainable AI and Algorithmic Fairness to a group of psychology students</a>. In Vienna, the DiDi-Project continued, and I was allowed to <a href="https://www.linkedin.com/posts/luca-deck_digitalisierungsdiskurse-activity-7193956309543583744-Yi0q" style="text-decoration:none">share my experiences from the lecture hall experiments in January</a>.
 
