@@ -10,7 +10,7 @@ An overview of my education and professional experience. Still work in progress.
 ## Education
 
 - Ph.D. in Information Science, *University of Bayreuth*, Germany, 2023--present
-- M.Sc. in Industrial Engineering and Management, *Karlsruhe Institute of Technology (KIT)*, USA, 2023
+- M.Sc. in Industrial Engineering and Management, *Karlsruhe Institute of Technology (KIT)*, Germany, 2023
 - B.Sc. in Industrial Engineering and Management, *Karlsruhe Institute of Technology (KIT)*, Germany, 2019
 
 ## Professional Experience
