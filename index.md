@@ -4,7 +4,11 @@ layout: single
 author_profile: true
 ---
 
+<<<<<<< HEAD
 Hi, I'm Luca. Coming from a background in engineering, marketing, and computer science, I have found my true passion in steering technological advancements towards socially sustainable and equitable directions. My core research focuses on the intersection of explainable AI and fairness. Other than that, I am working on informing regulation and enforcement on the topics of fair machine learning, effective human oversight, and transparency obligations for AI-generated content. Parallely, we are developing exciting open-education materials at our <a href="https://abba-project.de/" style="text-decoration:none">ABBA-project</a>.
+=======
+Hi, I'm Luca. Coming from a background in engineering, marketing, and computer science, I have found my true passion in steering technological advancements towards socially sustainable and equitable directions. My core research focuses on the intersection of explainable AI and fairness. Other than that, I am working on informing regulation and enforcement on the topics of fair machine learning, effective human oversight, and transparency obligations for AI-generated content. Parallely, we are developing exciting open-education materials at our <a href="https://abba-project.de/" style="text-decoration:none">ABBA-project</a>
+>>>>>>> 492745f5ce37adf696dd93172a090f9bc2e77429
 
 I am fascinated by engaging with stakeholders and scholars from all sorts of backgrounds. This is why I want to build my fairness research around insights from computer scientists, ethicists, social scientists, legal experts, but also from all people affected by AI. The university of Bayreuth offers perfect grounds for such interdisciplinary endeavors. Here I am also embedded in the <a href="https://www.fim-rc.de/" style="text-decoration:none">FIM research institute for information management</a> full of fun and inspiring colleagues!
 
