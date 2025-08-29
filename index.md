@@ -4,11 +4,12 @@ layout: single
 author_profile: true
 ---
 
-Hi, I'm Luca. Coming from a background in engineering, marketing, and computer science, I have found my true passion in steering technological advancements towards economically sustainable and socially equitable directions. My core research focuses on fairness and transparency in AI which both offer tremendeous potentials (but also risks) for social good. Currently, I am looking into the value of explanations for AI decision-subjects fostering a stakeholder-centerd approach. Parallely, we are developing exciting open-education materials at our <a href="https://abba-project.de/" style="text-decoration:none">ABBA-project</a>
+Hi, I'm Luca. Coming from a background in engineering, marketing, and computer science, I have found my true passion in steering technological advancements towards socially sustainable and equitable directions. My core research focuses on the intersection of explainable AI and fairness. Other than that, I am working on informing regulation and enforcement on the topics of fair machine learning, effective human oversight, and transparency obligations for AI-generated content. Parallely, we are developing exciting open-education materials at our <a href="https://abba-project.de/" style="text-decoration:none">ABBA-project</a>
 
 I am fascinated by engaging with colleagues from all sorts of backgrounds. This is why I want to build my fairness research around insights from computer scientists, ethicists, social scientists, legal experts, but also from all people affected by AI. The university of Bayreuth offers perfect grounds for such interdisciplinary endeavors. Here I am also embedded in the <a href="https://www.fim-rc.de/" style="text-decoration:none">FIM research institute for information management</a> full of fun and inspiring colleagues!
 
 ## News
+**July '24.** &nbsp; I had never even imagined to be on a stage in front of 700 people, least to say in front of 700 kids. But it really happened thanks to the amazing <a href="https://www.uni-bayreuth.de/en/kinderuni" style="text-decoration:bold">childrens' university in Bayreuth</a>: <a href="https://www.linkedin.com/posts/luca-deck_bei-dem-herausragenden-kinderuni-vortrag-activity-7217171300518166530-f-FX" style="text-decoration:bold">LinkedIn-Post</a>
 
 **July '24.** &nbsp; I had never even imagined to be on a stage in front of 700 people, least to say in front of 700 kids. But it really happened thanks to the amazing <a href="https://www.uni-bayreuth.de/en/kinderuni" style="text-decoration:bold">childrens' university in Bayreuth</a>: <a href="https://www.linkedin.com/posts/luca-deck_bei-dem-herausragenden-kinderuni-vortrag-activity-7217171300518166530-f-FX" style="text-decoration:bold">LinkedIn-Post</a>
 
