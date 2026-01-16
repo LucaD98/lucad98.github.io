@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Lecture Assistance
 
-*Applied Artificial Intelligence*, University of Bayreuth, 2023--2024
+*Applied Artificial Intelligence*, University of Bayreuth, 2023--2026
 
 *Human-AI Collaboration*, University of Bayreuth, 2023
 
